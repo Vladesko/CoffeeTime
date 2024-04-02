@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\css\\checkEmail.css",
+      "PackagePath": "staticwebassets\\css\\checkEmail.css"
+    },
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\css\\fonts.css"
+    },
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\css\\loginStyle.css",
+      "PackagePath": "staticwebassets\\css\\loginStyle.css"
+    },
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\css\\registrationStyle.css",
+      "PackagePath": "staticwebassets\\css\\registrationStyle.css"
+    },
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\css\\reset.css",
+      "PackagePath": "staticwebassets\\css\\reset.css"
+    },
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\fonts\\Raleway-Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\Raleway-Bold.eot"
+    },
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\fonts\\Raleway-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Raleway-Bold.woff"
+    },
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\fonts\\Raleway-Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Raleway-Bold.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\fonts\\Raleway-Regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\Raleway-Regular.eot"
+    },
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\fonts\\Raleway-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\Raleway-Regular.woff"
+    },
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\fonts\\Raleway-Regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Raleway-Regular.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\img\\CoffeeTime.png",
+      "PackagePath": "staticwebassets\\img\\CoffeeTime.png"
+    },
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\img\\Line.svg",
+      "PackagePath": "staticwebassets\\img\\Line.svg"
+    },
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\img\\Password.svg",
+      "PackagePath": "staticwebassets\\img\\Password.svg"
+    },
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\img\\coffee-bg-log.svg",
+      "PackagePath": "staticwebassets\\img\\coffee-bg-log.svg"
+    },
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\img\\email.svg",
+      "PackagePath": "staticwebassets\\img\\email.svg"
+    },
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\img\\form-header.png",
+      "PackagePath": "staticwebassets\\img\\form-header.png"
+    },
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\img\\logo.svg"
+    },
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\img\\person.svg",
+      "PackagePath": "staticwebassets\\img\\person.svg"
+    },
+    {
+      "Id": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\img\\phone.svg",
+      "PackagePath": "staticwebassets\\img\\phone.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AuthCoffeeTime.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AuthCoffeeTime.props",
+      "PackagePath": "build\\AuthCoffeeTime.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AuthCoffeeTime.props",
+      "PackagePath": "buildMultiTargeting\\AuthCoffeeTime.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AuthCoffeeTime.props",
+      "PackagePath": "buildTransitive\\AuthCoffeeTime.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/login.css" />
+    <script src="js/account/login.js" defer></script>
+    <title>Login</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <a href="index.html">
+                <img class="logo" src="./images/login/logo.svg" alt="" />
+            </a>
+        </div>
+    </header>
+
+    <main class="main">
+        <form class="form" id="form">
+            <div class="container">
+                <img class="form-top" src="./images/login/CoffeeTime.png" alt="CoffeeTime" />
+                <div class="wrapper">
+                    <div class="field-wrapper">
+                        <p id="errorMessage" class="error"></p>
+                        <div class="field">
+                            <img class="field-img" src="./images/login/person.svg" alt="">
+                            <input type="text" placeholder="Логин" name="UserName" class="field-text" />
+                        </div>
+                        <div class="field">
+                            <img class="field-img" src="./images/login/Password.svg" alt="">
+                            <input type="password" placeholder="Пароль" name="Password" class="field-text" />
+                        </div>
+                    </div>
+                </div>
+                <a href="#" id="login" class="btn-nav">
+                    <p class="btn-nav__text">Войти</p>
+                  </a>
+                <div class="form-footer">
+                    <p class="text">Нет доступа?</p>
+                    <a href="registration.html" class="form-footer__btn">
+                        <p class="">Получить</p>
+                    </a>
+                </div>
+            </div>
+            <img src="./images/login/coffee-bg-log.svg" alt="Image" />
+        </form>
+    </main>
+</body>
+</html>

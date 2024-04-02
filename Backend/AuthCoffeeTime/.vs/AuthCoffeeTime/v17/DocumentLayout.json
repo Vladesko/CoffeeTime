@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|d:\\projects\\coffeetime\\backend\\authcoffeetime\\authcoffeetime\\views\\account\\checkemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|solutionrelative:authcoffeetime\\views\\account\\checkemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|d:\\projects\\coffeetime\\backend\\authcoffeetime\\authcoffeetime\\wwwroot\\css\\checkemail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|solutionrelative:authcoffeetime\\wwwroot\\css\\checkemail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|d:\\projects\\coffeetime\\backend\\authcoffeetime\\authcoffeetime\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|solutionrelative:authcoffeetime\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|d:\\projects\\coffeetime\\backend\\authcoffeetime\\authcoffeetime\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|solutionrelative:authcoffeetime\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|d:\\projects\\coffeetime\\backend\\authcoffeetime\\authcoffeetime\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|solutionrelative:authcoffeetime\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|d:\\projects\\coffeetime\\backend\\authcoffeetime\\authcoffeetime\\is4configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|solutionrelative:authcoffeetime\\is4configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|d:\\projects\\coffeetime\\backend\\authcoffeetime\\authcoffeetime\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|solutionrelative:authcoffeetime\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|d:\\projects\\coffeetime\\backend\\authcoffeetime\\authcoffeetime\\models\\registrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|solutionrelative:authcoffeetime\\models\\registrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|d:\\projects\\coffeetime\\backend\\authcoffeetime\\authcoffeetime\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|solutionrelative:authcoffeetime\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|d:\\projects\\coffeetime\\backend\\authcoffeetime\\authcoffeetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|solutionrelative:authcoffeetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|d:\\projects\\coffeetime\\backend\\authcoffeetime\\authcoffeetime\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|solutionrelative:authcoffeetime\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|d:\\projects\\coffeetime\\backend\\authcoffeetime\\authcoffeetime\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|solutionrelative:authcoffeetime\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|d:\\projects\\coffeetime\\backend\\authcoffeetime\\authcoffeetime\\entities\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|solutionrelative:authcoffeetime\\entities\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|d:\\projects\\coffeetime\\backend\\authcoffeetime\\authcoffeetime\\wwwroot\\css\\registrationstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|solutionrelative:authcoffeetime\\wwwroot\\css\\registrationstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|d:\\projects\\coffeetime\\backend\\authcoffeetime\\authcoffeetime\\wwwroot\\css\\loginstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|solutionrelative:authcoffeetime\\wwwroot\\css\\loginstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|d:\\projects\\coffeetime\\backend\\authcoffeetime\\authcoffeetime\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|solutionrelative:authcoffeetime\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|d:\\projects\\coffeetime\\backend\\authcoffeetime\\authcoffeetime\\authcoffeetime.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B1C9B44A-FB71-470C-B365-B048ED34B062}|AuthCoffeeTime\\AuthCoffeeTime.csproj|solutionrelative:authcoffeetime\\authcoffeetime.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "AuthCoffeeTime\\Services\\EmailService.cs",
+              "ToolTip": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Services\\EmailService.cs",
+              "RelativeToolTip": "AuthCoffeeTime\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:27:03.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Program.cs",
+              "RelativeDocumentMoniker": "AuthCoffeeTime\\Program.cs",
+              "ToolTip": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Program.cs",
+              "RelativeToolTip": "AuthCoffeeTime\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAIBJwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T07:35:26.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IS4Configuration.cs",
+              "DocumentMoniker": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\IS4Configuration.cs",
+              "RelativeDocumentMoniker": "AuthCoffeeTime\\IS4Configuration.cs",
+              "ToolTip": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\IS4Configuration.cs",
+              "RelativeToolTip": "AuthCoffeeTime\\IS4Configuration.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwBwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:29:01.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Views\\Account\\Registration.cshtml",
+              "RelativeDocumentMoniker": "AuthCoffeeTime\\Views\\Account\\Registration.cshtml",
+              "ToolTip": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Views\\Account\\Registration.cshtml",
+              "RelativeToolTip": "AuthCoffeeTime\\Views\\Account\\Registration.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T16:55:12.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistrationViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Models\\RegistrationViewModel.cs",
+              "RelativeDocumentMoniker": "AuthCoffeeTime\\Models\\RegistrationViewModel.cs",
+              "ToolTip": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Models\\RegistrationViewModel.cs",
+              "RelativeToolTip": "AuthCoffeeTime\\Models\\RegistrationViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:24:05.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "checkEmail.css",
+              "DocumentMoniker": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\css\\checkEmail.css",
+              "RelativeDocumentMoniker": "AuthCoffeeTime\\wwwroot\\css\\checkEmail.css",
+              "ToolTip": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\css\\checkEmail.css",
+              "RelativeToolTip": "AuthCoffeeTime\\wwwroot\\css\\checkEmail.css",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAiwIAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-06T11:11:07.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckEmail.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Views\\Account\\CheckEmail.cshtml",
+              "RelativeDocumentMoniker": "AuthCoffeeTime\\Views\\Account\\CheckEmail.cshtml",
+              "ToolTip": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Views\\Account\\CheckEmail.cshtml",
+              "RelativeToolTip": "AuthCoffeeTime\\Views\\Account\\CheckEmail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T11:09:57.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "AuthCoffeeTime\\Models\\AppUser.cs",
+              "ToolTip": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Models\\AppUser.cs",
+              "RelativeToolTip": "AuthCoffeeTime\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T07:47:48.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "registrationStyle.css",
+              "DocumentMoniker": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\css\\registrationStyle.css",
+              "RelativeDocumentMoniker": "AuthCoffeeTime\\wwwroot\\css\\registrationStyle.css",
+              "ToolTip": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\css\\registrationStyle.css",
+              "RelativeToolTip": "AuthCoffeeTime\\wwwroot\\css\\registrationStyle.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-06T09:17:24.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "AuthCoffeeTime\\Interfaces\\IEmailService.cs",
+              "ToolTip": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "AuthCoffeeTime\\Interfaces\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T10:58:01.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AuthCoffeeTime\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AuthCoffeeTime\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwD4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:27:07.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AuthCoffeeTime\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "AuthCoffeeTime\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T16:36:00.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "AuthCoffeeTime\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "AuthCoffeeTime\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:20:52.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Entities\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "AuthCoffeeTime\\Entities\\AuthDbContext.cs",
+              "ToolTip": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Entities\\AuthDbContext.cs",
+              "RelativeToolTip": "AuthCoffeeTime\\Entities\\AuthDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T07:47:16.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "loginStyle.css",
+              "DocumentMoniker": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\css\\loginStyle.css",
+              "RelativeDocumentMoniker": "AuthCoffeeTime\\wwwroot\\css\\loginStyle.css",
+              "ToolTip": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\wwwroot\\css\\loginStyle.css",
+              "RelativeToolTip": "AuthCoffeeTime\\wwwroot\\css\\loginStyle.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-06T09:17:44.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AuthCoffeeTime\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AuthCoffeeTime\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T16:35:16.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthCoffeeTime.csproj",
+              "DocumentMoniker": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\AuthCoffeeTime.csproj",
+              "RelativeDocumentMoniker": "AuthCoffeeTime\\AuthCoffeeTime.csproj",
+              "ToolTip": "D:\\Projects\\CoffeeTime\\Backend\\AuthCoffeeTime\\AuthCoffeeTime\\AuthCoffeeTime.csproj",
+              "RelativeToolTip": "AuthCoffeeTime\\AuthCoffeeTime.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-29T16:18:40.128Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

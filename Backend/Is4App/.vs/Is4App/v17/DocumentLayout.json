@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0431\u0449\u0435\u0435\\SpaApplication\\Is4App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C55CE2B8-7829-474E-8E40-D31CC4153FFB}|Is4App\\Is4App.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043E\u0431\u0449\u0435\u0435\\spaapplication\\is4app\\is4app\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55CE2B8-7829-474E-8E40-D31CC4153FFB}|Is4App\\Is4App.csproj|solutionrelative:is4app\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55CE2B8-7829-474E-8E40-D31CC4153FFB}|Is4App\\Is4App.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043E\u0431\u0449\u0435\u0435\\spaapplication\\is4app\\is4app\\wwwroot\\css\\loginstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C55CE2B8-7829-474E-8E40-D31CC4153FFB}|Is4App\\Is4App.csproj|solutionrelative:is4app\\wwwroot\\css\\loginstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55CE2B8-7829-474E-8E40-D31CC4153FFB}|Is4App\\Is4App.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043E\u0431\u0449\u0435\u0435\\spaapplication\\is4app\\is4app\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C55CE2B8-7829-474E-8E40-D31CC4153FFB}|Is4App\\Is4App.csproj|solutionrelative:is4app\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55CE2B8-7829-474E-8E40-D31CC4153FFB}|Is4App\\Is4App.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043E\u0431\u0449\u0435\u0435\\spaapplication\\is4app\\is4app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55CE2B8-7829-474E-8E40-D31CC4153FFB}|Is4App\\Is4App.csproj|solutionrelative:is4app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534776F8-C61C-4306-8AA2-C51A300FB111}|App\\App.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043E\u0431\u0449\u0435\u0435\\spaapplication\\is4app\\app\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534776F8-C61C-4306-8AA2-C51A300FB111}|App\\App.csproj|solutionrelative:app\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D520A094-08D6-4508-8B2C-6364B22AD1B6}|Infastructure\\Infastructure.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043E\u0431\u0449\u0435\u0435\\spaapplication\\is4app\\infastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D520A094-08D6-4508-8B2C-6364B22AD1B6}|Infastructure\\Infastructure.csproj|solutionrelative:infastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534776F8-C61C-4306-8AA2-C51A300FB111}|App\\App.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043E\u0431\u0449\u0435\u0435\\spaapplication\\is4app\\app\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534776F8-C61C-4306-8AA2-C51A300FB111}|App\\App.csproj|solutionrelative:app\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D520A094-08D6-4508-8B2C-6364B22AD1B6}|Infastructure\\Infastructure.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043E\u0431\u0449\u0435\u0435\\spaapplication\\is4app\\infastructure\\comons\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D520A094-08D6-4508-8B2C-6364B22AD1B6}|Infastructure\\Infastructure.csproj|solutionrelative:infastructure\\comons\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE2E035-C5C4-4295-894B-BA6E41E37686}|DomainApp\\DomainApp.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043E\u0431\u0449\u0435\u0435\\spaapplication\\is4app\\domainapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE2E035-C5C4-4295-894B-BA6E41E37686}|DomainApp\\DomainApp.csproj|solutionrelative:domainapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "loginStyle.css",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0431\u0449\u0435\u0435\\SpaApplication\\Is4App\\Is4App\\wwwroot\\css\\loginStyle.css",
+              "RelativeDocumentMoniker": "Is4App\\wwwroot\\css\\loginStyle.css",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0431\u0449\u0435\u0435\\SpaApplication\\Is4App\\Is4App\\wwwroot\\css\\loginStyle.css",
+              "RelativeToolTip": "Is4App\\wwwroot\\css\\loginStyle.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-20T10:03:32.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0431\u0449\u0435\u0435\\SpaApplication\\Is4App\\Is4App\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Is4App\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0431\u0449\u0435\u0435\\SpaApplication\\Is4App\\Is4App\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Is4App\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T10:01:37.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0431\u0449\u0435\u0435\\SpaApplication\\Is4App\\Is4App\\Program.cs",
+              "RelativeDocumentMoniker": "Is4App\\Program.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0431\u0449\u0435\u0435\\SpaApplication\\Is4App\\Is4App\\Program.cs",
+              "RelativeToolTip": "Is4App\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:03:50.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0431\u0449\u0435\u0435\\SpaApplication\\Is4App\\App\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "App\\Services\\UserService.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0431\u0449\u0435\u0435\\SpaApplication\\Is4App\\App\\Services\\UserService.cs",
+              "RelativeToolTip": "App\\Services\\UserService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwB4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:20:54.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0431\u0449\u0435\u0435\\SpaApplication\\Is4App\\App\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "App\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0431\u0449\u0435\u0435\\SpaApplication\\Is4App\\App\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "App\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:20:27.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0431\u0449\u0435\u0435\\SpaApplication\\Is4App\\Infastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0431\u0449\u0435\u0435\\SpaApplication\\Is4App\\Infastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:19:10.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependecyInjection.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0431\u0449\u0435\u0435\\SpaApplication\\Is4App\\Infastructure\\Comons\\DependecyInjection.cs",
+              "RelativeDocumentMoniker": "Infastructure\\Comons\\DependecyInjection.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0431\u0449\u0435\u0435\\SpaApplication\\Is4App\\Infastructure\\Comons\\DependecyInjection.cs",
+              "RelativeToolTip": "Infastructure\\Comons\\DependecyInjection.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwBQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:14:16.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0431\u0449\u0435\u0435\\SpaApplication\\Is4App\\DomainApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DomainApp\\Models\\User.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0431\u0449\u0435\u0435\\SpaApplication\\Is4App\\DomainApp\\Models\\User.cs",
+              "RelativeToolTip": "DomainApp\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:12:56.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0431\u0449\u0435\u0435\\SpaApplication\\Is4App\\Is4App\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Is4App\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0431\u0449\u0435\u0435\\SpaApplication\\Is4App\\Is4App\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Is4App\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:07:09.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

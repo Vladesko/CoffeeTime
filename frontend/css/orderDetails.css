@@ -1,0 +1,140 @@
+@import url("reset.css");
+@import url("fonts.css");
+
+:root {
+  --extra-dark: #38220f;
+  --light: #dbc1ac;
+  --extra-light: #ece0d1;
+  --dark: #634832;
+}
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+.container {
+  max-width: 930px;
+  margin: 0 auto;
+}
+/* -------------header------------ */
+
+.header {
+  margin-top: 35px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navigations {
+  margin-top: 25px;
+}
+
+.header-nav__item {
+  margin-right: 30px;
+  text-decoration: none;
+  color: var(--extra-dark);
+  transition-duration: 0.3s;
+}
+
+.header-nav__item:hover {
+  color: var(--light);
+}
+
+.header-nav__item:last-child {
+  margin-right: 0px;
+}
+
+/* ------------main------------- */
+
+.main {
+  margin-top: 35px;
+  width: 100%;
+}
+
+.row {
+  height: 60px;
+  display: flex;
+  border: var(--extra-dark) solid 2px;
+  border-bottom: 0;
+}
+
+.row:last-child {
+  border-bottom: var(--extra-dark) solid 2px;
+}
+
+.column {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  width: 50%;
+  color: var(--extra-dark);
+}
+
+.column-title {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  width: 50%;
+  border-right: var(--extra-dark) solid 2px;
+}
+
+.column-title__text {
+  font-weight: bold;
+  font-size: 20px;
+  color: var(--extra-dark);
+}
+
+.column-btn {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  text-decoration: none;
+}
+
+.btns {
+  margin-top: 35px;
+  display: flex;
+  gap: 25px;
+}
+
+.btn {
+  border-radius: 15px;
+  display: grid;
+  width: 225px;
+  height: 45px;
+  text-decoration: none;
+}
+
+.btn-ready {
+  background-color: var(--dark);
+  transition-duration: .5s;
+  color: var(--light);
+}
+
+.btn-ready:hover {
+  background-color: var(--extra-dark);
+  color: var(--extra-light);
+}
+
+.btn-ready__text {
+  justify-self: center;
+  align-self: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.btn-delete {
+  transition-duration: .5s;
+  background-color: var(--light);
+  color: var(--dark);
+}
+
+.btn-delete:hover {
+  background-color: var(--extra-light);
+  color: var(--extra-dark);
+}
+
+.btn-delete__text {
+  justify-self: center;
+  align-self: center;
+  font-size: 18px;
+  font-weight: bold;
+}

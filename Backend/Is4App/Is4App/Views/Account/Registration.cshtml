@@ -1,0 +1,77 @@
+﻿@using Is4App.ViewModels
+@model RegistrationUserRequest
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/registrationStyle.css" />
+    <title>Registration</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <a href="index.html">
+                <img class="logo" src="../img/logo.svg" alt="" />
+            </a>
+        </div>
+    </header>
+
+    <main class="main">
+
+        <form asp-action="Registration" asp-controller="Account" asp-antiforgery="true" method="post" class="form">
+            <img src="../img/form-header.png" alt="" />
+            <div class="form-container">
+                <p class="Error">@ViewBag.Error</p>
+                <div class="wrapper">
+                    <section class="field field-top">
+                        <img class="field-img"
+                             src="../img/person.svg"
+                             alt="Person" />
+                        <input type="text"
+                               placeholder="Имя пользователя"
+                               asp-for="UserName"
+                               class="field-text field-text__top" />
+                    </section>
+                    <section class="field field-center">
+                        <div class="item">
+                            <img class="field-img"
+                                 src="../img/phone.svg" alt="Phone" />
+                            <input type="text"
+                                   placeholder="Номер телефона"
+                                   asp-for="NumberPhone"
+                                   class="field-text field-text__center" />
+                        </div>
+                        <div class="item">
+                            <img class="field-img" src="../img/email.svg" alt="Email" />
+                            <input type="email"
+                                   placeholder="Email"
+                                   asp-for="Email"
+                                   class="field-text field-text__center" />
+                        </div>
+                    </section>
+                    <section class="field field-bottom">
+                        <div class="item">
+                            <img class="field-img"
+                                 src="../img/Password.svg" alt="Password" />
+                            <input type="password"
+                                   placeholder="Пароль"
+                                   asp-for="Password"
+                                   class="field-text field-text__bottom" />
+                        </div>
+                        <div class="item">
+                            <img class="field-img" src="../img/Password.svg" alt="Password" />
+                            <input type="password"
+                                   placeholder="Повторите пароль"
+                                   asp-for="ConfirmPassword"
+                                   class="field-text field-text__bottom" />
+                        </div>
+                    </section>
+                </div>
+                <input type="submit" class="btn-nav btn-nav__text" value="Зарегестрироваться">
+            </div>
+        </form>
+    </main>
+</body>
+</html>

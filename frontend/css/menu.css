@@ -1,0 +1,180 @@
+@import url("reset.css");
+@import url("fonts.css");
+
+:root {
+    --extra-dark: #38220f;
+    --light: #DBC1AC;
+    --extra-light: #ECE0D1;
+    --dark: #634832;
+  }
+  body {
+    font-family: "Raleway", sans-serif;
+    display: flex;
+    flex-direction: column;  
+  }
+
+  main {
+    flex: 1 1 auto;
+  }
+  
+  .container {
+    max-width: 930px;
+    margin: 0 auto;
+  }
+
+  .btn-nav {
+    margin-top: px;
+    text-decoration: none;
+    color: var(--extra-dark);
+    background-color: var(--extra-light);
+    border-radius: 15px;
+    width: 225px;
+    height: 45px;
+    display: grid;
+    transition-duration: .5s;
+  }
+  
+  .btn-nav:hover {
+    color: var(--light);
+    background-color: var(--dark);
+  }
+  
+  
+  .btn-nav__text {  
+    font-weight: bold;
+    align-self: center;
+    justify-self: center;
+  }
+
+  .about-title {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+
+  .logo {
+    padding-top: 20px;
+  }
+
+
+  /*---------- main section--------- */
+
+
+  .wrapper {
+      margin-top: 90px;
+      max-height: 375px;
+      padding: 50px 30px;
+      border: var(--extra-dark) solid 1px;
+      display: flex;
+      gap: 38px;
+  }
+
+  .card {
+    width: 265px;
+    height: 275px;
+    border-radius: 5px;
+    background-color: var(--extra-dark);
+    color: var(--extra-light);
+    display: grid;
+  }
+
+  .card-img {
+    justify-self: center;
+    border-radius: 5px;
+    margin-top: 12px;
+  }
+
+  .card-title {
+    padding-top: 10px;
+    justify-self: center;
+    font-weight: bold;
+    font-size: 12px;
+  }
+
+  .card-text {
+    width: 175px;
+    justify-self: center;
+    font-weight: 400;
+    font-size: 10px;
+    opacity: .35;
+  }
+
+ .card-btn {
+    padding: 10px 17px;
+    margin-right: 10px;
+    margin-bottom: 8px;
+    justify-self: end;
+    text-decoration: none;
+    color: var(--extra-light);
+    border-radius: 25px;
+    border: var(--extra-light) solid 1px;
+    display: grid;
+    transition-duration: .5s;
+ } 
+
+ .card-btn:hover {
+    color: var(--extra-dark);
+    background-color: var(--extra-light);
+ }
+
+ .card-btn__text {
+    font-weight: bold;
+    font-size: 10px;
+    justify-self: center;
+    align-self: center;
+ }
+
+
+ /* -----footer------ */
+
+ .footer {
+  margin: 0 auto;
+  border-top: var(--extra-dark) solid 2px;
+  height: 250px;
+  width: 100%;
+  margin-top: 100px;
+}
+
+.footer-wrapper {
+  padding-top: 18px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.info-footer {
+  margin-top: 25px;
+  margin-left: 30px;
+}
+
+.info-footer__item {
+  display: flex;
+  gap:5px;
+  padding-bottom: 20px;
+}
+
+.footer-nav {
+  margin-top: 25px;
+  background-color: var(--dark);
+  width: 225px;
+  height: 45px;
+  text-decoration: none;
+  display: grid;
+  border-radius: 15px;
+}
+
+.footer-nav__text {
+  justify-self: center;
+  align-self: center;
+  font-weight: bold;
+  color: var(--extra-light);
+}
+
+.wrapper > a {
+  background-color: var(--extra-dark);
+  color: var(--extra-light);
+  transition-duration: .5s;
+}
+
+.wrapper > a:hover {
+  background-color: var(--light);
+  color: var(--extra-dark);
+}

@@ -1,0 +1,11 @@
+D:\Обучение\Программирование\Общее\SpaApplication\Is4App\DomainApp\bin\Debug\net8.0\DomainApp.deps.json
+D:\Обучение\Программирование\Общее\SpaApplication\Is4App\DomainApp\bin\Debug\net8.0\DomainApp.dll
+D:\Обучение\Программирование\Общее\SpaApplication\Is4App\DomainApp\bin\Debug\net8.0\DomainApp.pdb
+D:\Обучение\Программирование\Общее\SpaApplication\Is4App\DomainApp\obj\Debug\net8.0\DomainApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Программирование\Общее\SpaApplication\Is4App\DomainApp\obj\Debug\net8.0\DomainApp.AssemblyInfoInputs.cache
+D:\Обучение\Программирование\Общее\SpaApplication\Is4App\DomainApp\obj\Debug\net8.0\DomainApp.AssemblyInfo.cs
+D:\Обучение\Программирование\Общее\SpaApplication\Is4App\DomainApp\obj\Debug\net8.0\DomainApp.csproj.CoreCompileInputs.cache
+D:\Обучение\Программирование\Общее\SpaApplication\Is4App\DomainApp\obj\Debug\net8.0\DomainApp.dll
+D:\Обучение\Программирование\Общее\SpaApplication\Is4App\DomainApp\obj\Debug\net8.0\refint\DomainApp.dll
+D:\Обучение\Программирование\Общее\SpaApplication\Is4App\DomainApp\obj\Debug\net8.0\DomainApp.pdb
+D:\Обучение\Программирование\Общее\SpaApplication\Is4App\DomainApp\obj\Debug\net8.0\ref\DomainApp.dll

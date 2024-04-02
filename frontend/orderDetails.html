@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/orderDetails.css" />
+    <script src="./js/orderDetalis.js" defer></script>
+    <title>Order details</title>
+  </head>
+  <body>
+    <div class="container">
+      <header class="header">
+        <a href="#"> <img src="./images/logo.svg" alt="logo" /></a>
+        <nav class="navigations">
+          <a href="personal.html" class="header-nav__item"
+            >Вернуться в личный кабинет</a
+          >
+        </nav>
+      </header>
+
+      <main class="main">
+        <section>
+          <div class="row">
+            <div class="column column-title">
+              <p class="column-title__text">Название товара</p>
+            </div>
+            <div class="column">
+              <p class="column-name" id="name">Cacao</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="column-title">
+              <p class="column-title__text">Имя заказчика</p>
+            </div>
+            <div class="column">
+              <p class="column-person" id="person">Vladislav</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="column-title">
+              <p class="column-title__text">Номер телефона заказчика</p>
+            </div>
+            <div class="column">
+              <p class="column-number" id="phone">+375447973692</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="column-title">
+              <p class="column-title__text">Цена заказа</p>
+            </div>
+            <div class="column">
+              <p class="column-price" id="price">1.5$</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="column-title">
+              <p class="column-title__text">Статус</p>
+            </div>
+            <div class="column">
+              <img class="column-status" id="status" src="./images/orders/no.svg" alt="" />
+            </div>
+          </div>
+          <div class="row">
+            <div class="column-title">
+              <p class="column-title__text">Дата создания заказа</p>
+            </div>
+            <div class="column">
+              <p class="column-time__create" id="createDate">12.03.2024 18:53:42</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="column-title">
+              <p class="column-title__text">Дата изменения заказа</p>
+            </div>
+            <div class="column">
+              <p class="column-time__update" id="changeDate">12.03.2024 19:02:42</p>
+            </div>
+          </div>
+        </section>
+
+        <section class="btns">
+          <a href="personal.html" id="btn-ready" class="btn btn-ready">
+            <p class="btn-ready__text">
+              Заказ готов
+            </p>
+          </a>
+          <a href="personal.html" id="btn-delete" class="btn btn-delete">
+            <p class="btn-delete__text">Удалить заказ</p>
+          </a>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
