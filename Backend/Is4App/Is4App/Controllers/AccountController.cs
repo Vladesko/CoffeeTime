@@ -1,39 +1,56 @@
 ﻿using App.Interfaces;
 using DomainApp.Models;
+using FluentValidation;
 using Is4App.Map;
 using Is4App.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Is4App.Controllers
 {
-    public class AccountController(IUserService service) : Controller
+    [ApiController]
+    [Route("api/[controller]/[action]")]
+    public class AccountController(IUserService service) : ControllerBase
     {
         private readonly IUserService service = service;
-        [HttpGet]
-        public IActionResult Login()
-        {
-            LoginUserRequest request = new LoginUserRequest();
-            return View(request);
-        }
-            [HttpPost]
-        public async Task<IActionResult> Login(LoginUserRequest request)
+        [HttpPost]
+        public async Task<IActionResult> Login([FromBody]LoginUserRequest request)
         {
             var model = new UserMap().MapWith(request);
             var token = await service.Login(model);
 
-            return Redirect($"http://localhost:5500/personal.html?access_token={token}");
+            return Ok(token);
         }
-        [HttpGet]
-        public IActionResult Registration() => View();
         [HttpPost]
-        public async Task<IActionResult> Registration(RegistrationUserRequest request)
+        public async Task<IActionResult> Registration([FromBody]RegistrationUserRequest request)
         {
             if (request.ConfirmPassword != request.Password)
                 return BadRequest("Password is not confirm");
 
+
             var model = new UserMap().MapWith(request);
             await service.Registration(model);
-            return Redirect("https://localhost:7188/Account/Login");
+            return Ok();
+        }
+        [Authorize]
+        [HttpPost]
+        public async Task<IActionResult> SendCode([FromBody] ConfirmUserRequest request)
+        {
+            await service.SendCode(request.Email);
+            return Ok();
+        }
+        [HttpPost]
+        public async Task<IActionResult> CodeConfirmation([FromBody] ConfirmUserRequest request)
+        {
+            await service.CheckCode(request.SecretCode, request.Email);
+            return Ok();
+        }
+        [Authorize]
+        [HttpGet]
+        public async Task<IActionResult> Users()
+        {
+            var users = await service.GetUsers();
+            return Ok(users);
         }
     }
 }

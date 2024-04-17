@@ -1,4 +1,5 @@
 ﻿using App.Interfaces;
+using App.Services;
 using Infastructure.Comons.Exceptions;
 using Infastructure.Entities;
 using Infastructure.Repositories;
@@ -29,6 +30,7 @@ namespace Infastructure.Comons
 
             services.AddScoped<IPasswordHasher, PasswordHasher>();
             services.AddScoped<IJwtProvider,JwtProvider>();
+            services.AddTransient<IEmailService, EmailService>();
             services.AddScoped<IUserRepository, UserRepository>();
 
             return services;

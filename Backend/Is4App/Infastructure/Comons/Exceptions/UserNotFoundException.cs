@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Infastructure.Comons.Exceptions
 {
-    public class UserNotFoundException : Exception
+    public class UserNotFoundException(string message) : Exception(message)
     {
-        public UserNotFoundException(string message) : base(message)
-        {
-
-        }
     }
 }

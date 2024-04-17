@@ -1,5 +1,6 @@
 using App.Comon;
 using Infastructure.Comons;
+using Is4App.Middleware;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
@@ -37,6 +38,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidateAudience = false,
             ValidateLifetime = true,
             ValidateIssuerSigningKey = true,
+
             IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secretKey)),
         };
 
@@ -44,7 +46,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
         {
             OnMessageReceived = context =>
             {
-                context.Token = context.Request.Cookies["OrderApi"];
+                context.Token = context.Request.Headers.FirstOrDefault(t => t.Key == "Authorization").Value;
 
                 return Task.CompletedTask;
             }
@@ -66,14 +68,15 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseCustomException();
 app.UseRouting();
 app.UseHttpsRedirection();
 app.UseCors("AllowAll");
-app.UseMvc();
 
 app.UseAuthentication();
 app.UseAuthorization();
 
+app.UseMvc();
 
 
 app.UseStaticFiles();

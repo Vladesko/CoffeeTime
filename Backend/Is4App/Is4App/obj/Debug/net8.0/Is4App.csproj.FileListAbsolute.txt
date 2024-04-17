@@ -117,6 +117,9 @@ D:\Обучение\Программирование\Общее\SpaApplication\I
 D:\Обучение\Программирование\Общее\SpaApplication\Is4App\Is4App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Обучение\Программирование\Общее\SpaApplication\Is4App\Is4App\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Обучение\Программирование\Общее\SpaApplication\Is4App\Is4App\obj\Debug\net8.0\Is4App.MvcApplicationPartsAssemblyInfo.cs
-D:\Обучение\Программирование\Общее\SpaApplication\Is4App\Is4App\obj\Debug\net8.0\Is4App.RazorAssemblyInfo.cache
-D:\Обучение\Программирование\Общее\SpaApplication\Is4App\Is4App\obj\Debug\net8.0\Is4App.RazorAssemblyInfo.cs
 D:\Обучение\Программирование\Общее\SpaApplication\Is4App\Is4App\bin\Debug\net8.0\Is4App.staticwebassets.runtime.json
+D:\Обучение\Программирование\Общее\SpaApplication\Is4App\Is4App\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Обучение\Программирование\Общее\SpaApplication\Is4App\Is4App\bin\Debug\net8.0\MailKit.dll
+D:\Обучение\Программирование\Общее\SpaApplication\Is4App\Is4App\bin\Debug\net8.0\MimeKit.dll
+D:\Обучение\Программирование\Общее\SpaApplication\Is4App\Is4App\bin\Debug\net8.0\FluentValidation.dll
+D:\Обучение\Программирование\Общее\SpaApplication\Is4App\Is4App\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

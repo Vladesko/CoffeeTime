@@ -11,5 +11,8 @@ namespace App.Interfaces
     {
         Task Registration(RegistrationViewModel model);
         Task<string> Login(LoginViewModel model);
+        Task SendCode(string email);
+        Task CheckCode(int code, string email);
+        Task<List<User>> GetUsers();
     }
 }

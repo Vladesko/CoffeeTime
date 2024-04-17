@@ -12,6 +12,8 @@ namespace DomainApp.Models
         public string UserName { get; set; } = userName;
         public string Phone { get; set; } = phone;
         public string Email { get; set; } = email;
+        public int? SecretCode { get; set; } = null;
+        public bool EmailConfimed { get; set; } = false;
         public string Password { get; set; } = password;
     }
 }

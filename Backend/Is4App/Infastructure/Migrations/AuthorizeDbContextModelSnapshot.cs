@@ -33,6 +33,9 @@ namespace Infastructure.Migrations
                         .HasMaxLength(100)
                         .HasColumnType("character varying(100)");
 
+                    b.Property<bool>("EmailConfimed")
+                        .HasColumnType("boolean");
+
                     b.Property<string>("Password")
                         .IsRequired()
                         .HasColumnType("text");
@@ -40,6 +43,9 @@ namespace Infastructure.Migrations
                     b.Property<string>("Phone")
                         .IsRequired()
                         .HasColumnType("text");
+
+                    b.Property<int?>("SecretCode")
+                        .HasColumnType("integer");
 
                     b.Property<string>("UserName")
                         .IsRequired()

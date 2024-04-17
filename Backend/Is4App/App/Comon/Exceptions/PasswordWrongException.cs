@@ -10,7 +10,6 @@ namespace App.Comon.Exceptions
     {
         public PasswordWrongException(string message) : base(message)
         {
-
         }
     }
 }
